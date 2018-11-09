@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "baasu.db.elephantsql.com",
+  "port": 5432,
+  "username": "ouasdplo",
+  "password": "zfG7CpqIolHSUfFD4Y0ctd47ck175tMz",
+  "database": "ouasdplo",
+  "entities": ["src/**/**.entity{.ts,.js}"],
+  "synchronize": true
+}
